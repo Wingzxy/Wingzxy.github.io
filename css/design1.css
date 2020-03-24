@@ -70,7 +70,7 @@ body {
 .fakeimg {
   background-color: #aaa;
   width: 100%;
-  padding: 20px;
+  padding: none;
 }
 
 /* Add a card effect for articles */
