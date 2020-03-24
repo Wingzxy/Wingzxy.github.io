@@ -79,8 +79,10 @@ body {
 
 /* Footer */
 .footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+  padding: 10px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 10px;
 }
 
 
